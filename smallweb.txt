@@ -13228,6 +13228,7 @@ https://www.davidbordwell.net/blog/feed/atom/
 https://www.davideaversa.it/index.xml
 https://www.davidglarson.com/feed/
 https://www.davidgodman.org/feed/
+https://www.davidgoodman.net/rss/
 https://www.davidhang.com/rss.xml
 https://www.davidlamotte.com/feed/
 https://www.davidosomething.com/rss.xml
