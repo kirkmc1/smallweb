@@ -349,6 +349,7 @@ http://iftheshoefritz.com/feed.xml
 http://ike.io/feed
 http://ilyavolodarsky.com/atom.xml
 http://imaginarykarin.com/feed/rss
+https://imperfect-loaf.com
 http://indiegamr.com/feed
 http://insufficientrespect.blogspot.com/feeds/posts/default
 http://inthewilderness.net/feed
